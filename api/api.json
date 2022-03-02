@@ -1,0 +1,130 @@
+{
+  "usuarios": [],
+  "productosDeseados": [
+    {
+      "id": 1,
+      "nombre": "Agogo",
+      "precio": "6900",
+      "imagen": "https://dulceria.co/wp-content/uploads/2020/05/2-300x300.jpg",
+      "encarrito": 0
+    },
+    {
+      "id": 2,
+      "nombre": "Burbujas Jet",
+      "precio": "6000",
+      "imagen": "https://dulceria.co/wp-content/uploads/2019/08/13-1-300x300.jpg",
+      "encarrito": 0
+    },
+    {
+      "id": 3,
+      "nombre": "Ballenas",
+      "precio": "$12300",
+      "imagen": "https://dulceria.co/wp-content/uploads/2020/10/6-1-300x300.jpg",
+      "encarrito": 0
+    },
+    {
+      "id": 4,
+      "nombre": "Bananas 100g",
+      "precio": "$3300",
+      "imagen": "https://dulceria.co/wp-content/uploads/2020/08/53-300x300.jpg",
+      "encarrito": 0
+    },
+    {
+      "id": 5,
+      "nombre": "Choco Ball x50",
+      "precio": "$3900",
+      "imagen": "https://dulceria.co/wp-content/uploads/2019/08/56-300x300.jpg",
+      "encarrito": 0
+    },
+    {
+      "id": 6,
+      "nombre": "Chilitos Rellenos Gigantes",
+      "precio": "$12300",
+      "imagen": "https://dulceria.co/wp-content/uploads/2020/08/51-300x300.jpg",
+      "encarrito": 0
+    }
+  ],
+  "productos": [
+    {
+      "id": 7,
+      "nombre": "Bon Bon Bum Uva Mix x24",
+      "precio": "$6900",
+      "categoria": "BOMBONES, COLOMBINA, DULCERÍA, UNCATEGORIZED",
+      "descripcion": "Caramelo duro (Chupeta) sabor a uva, con relleno goma de mascar sabor a tutti frutti, por 24 unidades, 432g.",
+      "imagen": "https://dulceria.co/wp-content/uploads/2022/02/11-300x300.jpg",
+      "encarrito": 0
+    },
+    {
+      "id": 8,
+      "nombre": "Barquillos Fresa x25",
+      "precio": "$7,500",
+      "categoria": " ANIVERSARIO, DULCERÍA, PASABOCAS",
+      "descripcion": "Barquillos rellenos con crema de fresa, 25 paquetes, 350 g.",
+      "imagen": "https://dulceria.co/wp-content/uploads/2020/07/1-1-300x300.jpg",
+      "encarrito": 0
+    },
+    {
+      "id": 9,
+      "nombre": "Pringles Queso Pequeña",
+      "precio": "$3200",
+      "categoria": "ANIVERSARIO, DULCERÍA, IMPORTADOS, PASABOCAS",
+      "descripcion": "Papas pringles sabor a queso, 40 g.",
+      "imagen": "https://dulceria.co/wp-content/uploads/2020/09/2-1-300x300.jpg",
+      "encarrito": 0
+    },
+    {
+      "id": 10,
+      "nombre": "Anis x100",
+      "precio": "$4,500",
+      "categoria": "COLOMBINA, DULCES DUROS",
+      "descripcion": "Dulce relleno sabor a Anis, por 100 unidades, 350 g.",
+      "imagen": "https://dulceria.co/wp-content/uploads/2019/09/22-300x300.jpg",
+      "encarrito": 0
+    },
+    {
+      "id": 11,
+      "nombre": "Arequipe",
+      "precio": "$3800",
+      "categoria": "COLOMBINA, DULCERÍA, PASABOCAS",
+      "descripcion": "Arequipe por 220g",
+      "imagen": "https://dulceria.co/wp-content/uploads/2021/02/75-300x300.jpg",
+      "encarrito": 0
+    },
+    {
+      "id": 12,
+      "nombre": "Barrilete x40",
+      "precio": "$6900",
+      "categoria": "DULCERÍA, DULCES BLANDOS, SUPER",
+      "descripcion": "Caramelo blando masticable, sabor frutal, por 40 unidades, 480 g.",
+      "imagen": "https://dulceria.co/wp-content/uploads/2020/10/11-300x300.jpg",
+      "encarrito": 0
+    },
+    {
+      "id": 13,
+      "nombre": "Bianchi Blanco x100",
+      "precio": "$7900",
+      "categoria": "DULCERÍA, DULCES DUROS, SUPER",
+      "descripcion": "Caramelo de leche con centro de sabor a chocolate blanco, por 100 unidades, 520 g.",
+      "imagen": "https://dulceria.co/wp-content/uploads/2019/09/52-300x300.jpg",
+      "encarrito": 0
+    },
+    {
+      "id": 14,
+      "nombre": "Choco Disk x18",
+      "precio": "$8900",
+      "categoria": "CHOCOLATES, COLOMBINA, DULCERÍA",
+      "descripcion": "Pastillas de chocolate, por 18 unidades, 288 g.",
+      "imagen": "https://dulceria.co/wp-content/uploads/2019/08/1-1-300x300.jpg",
+      "encarrito": 0
+    }
+  ],
+  "carrito": [
+    {
+      "id": 1,
+      "nombre": "Agogo",
+      "precio": "6900",
+      "imagen": "https://dulceria.co/wp-content/uploads/2020/05/2-300x300.jpg",
+      "encarrito": 1
+    }
+  ]
+}
